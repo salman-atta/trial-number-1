@@ -1,0 +1,57 @@
+
+#navbar {
+  font-size: 25px;
+}
+
+#navbar a{
+  float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 35px;
+  text-decoration: none
+}
+/* @media(max-width 500px;){
+  .nav{background-color: red;}
+} */
+
+a:hover {
+  background: #ddd;
+  color: black;
+}
+
+#welcome-section{
+  text-align: center;
+  padding-top: 200px;
+  color: white;
+  background-color: #45567D;
+  height: 100vh;
+  width: auto;
+}
+
+#projects{
+  background-color: #251749;
+  height: 100vh;
+  width:100vw;
+}
+
+.project-tile{
+  color: white;
+  text-align: center;
+  padding-top:80px;
+}
+.card-img-top{
+  height: 220px;
+
+}
+.card{
+width: 341px;
+margin: 50px 500px;
+}
+
+/* @media (max-width: 761px) {
+  .card-title {
+    font-size: 40px;
+    color: red;
+  }
+} */
